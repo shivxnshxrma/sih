@@ -32,8 +32,7 @@
 <ul>
   <li><strong>HTML</strong> - For basic page structure.</li>
   <li><strong>CSS</strong> - For styling and layout.</li>
-  <li><strong>JavaScript</strong> - For dynamic behavior and functionality.</li>
-  <li><strong>ReactJS</strong> (Optional) - For building responsive and interactive user interfaces.</li>
+  <li><strong>ReactJS</strong> - For dynamic behavior and functionality.</li>
 </ul>
 
 <h3>Backend</h3>
