@@ -6,6 +6,7 @@
   <li>Patient registration</li>
   <li>Appointment scheduling</li>
   <li>Treatment records</li>
+  <li>Inventory management</li>
   <li>Staff management</li>
   <li>Billing</li>
 </ul>
