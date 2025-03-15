@@ -37,6 +37,5 @@
 
 <h3>Backend</h3>
 <ul>
-  <li><strong>Java (Spring Boot)</strong> - For building the backend services and APIs.</li>
-  <li><strong>Node.js</strong> (Optional) - For handling server-side operations and RESTful API.</li>
+  <li><strong>Node.js</strong> For handling server-side operations and RESTful API.</li>
 </ul>
