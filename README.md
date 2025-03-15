@@ -39,4 +39,5 @@
 <h3>Backend</h3>
 <ul>
   <li><strong>Node.js</strong> For handling server-side operations and RESTful API.</li>
+  <li><strong>Express</strong> - A web application framework for Node.js to simplify API routing and server management.</li>
 </ul>
